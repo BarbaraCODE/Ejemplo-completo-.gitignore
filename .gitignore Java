@@ -45,7 +45,7 @@ local.properties
 .loadpath
 
 ##########################
-## Eclipse
+## NetBeans
 ##########################
 nbproject/private/
 build/
