@@ -1,8 +1,8 @@
 ##########################
 ## Java
 ##########################
-*.class
 .mtj.tmp/
+*.class
 *.jar
 *.war
 *.ear
@@ -22,30 +22,30 @@ release.properties
 ##########################
 ## Gradle
 ##########################
-.gradle
-build/
-.gradletasknamecache
 bin/
+build/
+.gradle
+.gradletasknamecache
 
 ##########################
 ## IntelliJ
 ##########################
-*.iml
+out/
 .idea/
+.idea_modules/
+*.iml
 *.ipr
 *.iws
-out/
-.idea_modules/
 
 ##########################
 ## Eclipse
 ##########################
-.metadata
-.classpath
-.project
 .settings/
 bin/
 tmp/
+.metadata
+.classpath
+.project
 *.tmp
 *.bak
 *.swp
