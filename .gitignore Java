@@ -26,6 +26,8 @@ bin/
 build/
 .gradle
 .gradletasknamecache
+gradle-app.setting
+!gradle-wrapper.jat
 
 ##########################
 ## IntelliJ
