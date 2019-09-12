@@ -24,6 +24,8 @@ release.properties
 ##########################
 .gradle
 build/
+.gradletasknamecache
+bin/
 
 ##########################
 ## IntelliJ
